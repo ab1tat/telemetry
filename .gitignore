@@ -1,0 +1,9 @@
+# .gitignore para Telemetry API (.NET)
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+appsettings.Development.json
+*.db
+*.local.json
